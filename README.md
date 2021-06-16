@@ -2,6 +2,8 @@
 ## Problem Discription 
 In recent years, the credit card issuers in Taiwan faced the cash and credit card debt crisis and the delinquency is expected to peak in the third quarter of 2006 (Chou,2006). In order to increase market share, card-issuing banks in Taiwan over-issued cash and credit cards to unqualified applicants. At the same time, most cardholders, irrespective of their repayment ability, overused credit card for consumption and accumulated heavy credit and cash–card debts. The crisis caused the blow to consumer finance confidence and it is a big challenge for both banks and cardholders.
 
+Here is the presentation link: https://github.com/soumya1999rta/Credit_Card_Default_Prediction/blob/main/Credit%20Card%20Default%20Prediction_Soumya_Ranjan_Mishra.pdf
+
 ## Dataset
 We used the [Credit Card Default payment in Taiwan] (https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) to predict whether the credit card holders are defaulters or Non-defaulters. The Dataset and its attributes are described below
 
